@@ -1,6 +1,6 @@
 {
   "name": "@dragonforgecode/dragonforgecss",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DragonForgeCode's official CSS framework",
   "main": "main.css",
   "scripts": {
