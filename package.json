@@ -5,6 +5,7 @@
   "main": "main.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo \"There is no build command at the moment\""
   },
   "license": "MIT"
 }
